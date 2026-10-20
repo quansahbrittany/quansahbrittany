@@ -14,8 +14,6 @@ Building a strong technical foundation combined with risk awareness, analytical 
 - 📜 **Degrees:** B.S. in Cybersecurity and B.S. in Computer Science & Technology
 - 🎓 **Minor:** Social Justice
 - 📅 **Expected Graduation:** May 2027
-- 📈 **GPA:** 3.17 / 4.00
-- 🏆 **Honors:** Highlander Distinction Scholarship Recipient
 
 ---
 
@@ -36,7 +34,30 @@ Building a strong technical foundation combined with risk awareness, analytical 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Coursework & Skills:** Java programming, SQL, web programming, database fundamentals, and database security.
+### 📚 Relevant Coursework
+
+My coursework at Radford University combines cybersecurity principles, computer systems, software development, networking, databases, and cloud computing.
+
+#### 🔐 Cybersecurity
+
+- Computer System & Database Security
+- Introduction to Information Security
+- Information Assurance Management
+- Security of Cyber-Physical Systems
+- Societal Security in Computing
+- Introduction to Computer Networking
+
+#### 💻 Computer Science & Technology
+
+- Foundations of Computer Science I
+- Foundations of Computer Science II
+- Foundations of Computer Systems
+- Computer Organization
+- Operating Systems
+- Software Engineering I
+- Database I
+- Web Programming I
+- Foundations of Cloud Computing
 
 #### 🔐 Cybersecurity & Networking
 
