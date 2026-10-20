@@ -59,17 +59,6 @@ My coursework at Radford University combines cybersecurity principles, computer 
 - Web Programming I
 - Foundations of Cloud Computing
 
-#### 🔐 Cybersecurity & Networking
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-
 - **Security Practices:** OWASP Juice Shop assessment, HTTP request and response analysis, authentication and access-control testing, security response header review, and evidence-based reporting.
 - **Areas of Interest:** GRC, cybersecurity risk management, security controls, and network security.
 
-#### ⚙️ Infrastructure & Collaboration Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-F
