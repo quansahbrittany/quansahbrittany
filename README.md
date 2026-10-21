@@ -4,7 +4,7 @@
 
 Building a strong technical foundation combined with risk awareness, analytical thinking, and responsible security practices to help organizations protect their critical data and information systems.
 
-📥 **[Connect on LinkedIn](https://linkedin.com)** | 💻 **[Explore My Repositories]([https://github.com](https://github.com/quansahbrittany))**
+📥 **[Connect on LinkedIn](https://linkedin.com)** | 💻 **[Explore My Repositorie]([https://github.com](https://github.com/quansahbrittany))**
 
 ---
 
