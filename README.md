@@ -2,67 +2,126 @@
 
 ### 🎓 Cybersecurity & Computer Science Student | Aspiring GRC Professional 🔐
 
-Building a strong technical foundation combined with risk awareness, analytical thinking, and responsible security practices to help organizations protect their critical data and information systems.
+I'm a student at Radford University building a foundation in cybersecurity, software development, and risk management. I'm interested in helping organizations identify security risks, evaluate controls, document vulnerabilities, and strengthen their security practices.
 
-📥 **[Connect on LinkedIn](https://linkedin.com)** | 💻 **[Explore My Repositorie]([https://github.com](https://github.com/quansahbrittany))**
+📍 Richmond, Virginia | 🎓 Expected Graduation: May 2027
 
----
-
-### 🏛️ Education & Highlights
-* 🏫 **University:** Radford University
-* 📜 **Degrees:** B.S. in Cybersecurity & B.S. in Computer Science & Technology
-* 🎓 **Minor:** Social Justice
-* 📅 **Expected Graduation:** May 2027
+💼 [LinkedIn](https://www.linkedin.com/in/brittany-quansah-8603832bb) | 💻 [GitHub Repositories](https://github.com/quansahbrittany) | 🦊 [GitLab](https://gitlab.com/quansahbrittany)
 
 ---
 
-### 🚀 About Me & Current Focus
-* 🏆 **Recent Project:** Completed a comprehensive web application security assessment of OWASP Juice Shop in a local testing environment, focusing on HTTP analysis, security headers, and access controls.
-* 🌱 **Learning & Upskilling:** Developing my understanding of Governance, Risk, and Compliance (GRC) frameworks, SQL and database security, and network security controls.
-* 💡 **Core Interests:** Security compliance, access-control testing, vulnerability documentation, cybersecurity risk assessment, and risk mitigation.
-* 🎯 **Career Goal:** Seeking cybersecurity and IT internships and entry-level opportunities, particularly in Governance, Risk & Compliance (GRC).
+## 🏛️ Education
+
+- **University:** Radford University
+- **Fields of Study:** Cybersecurity and Computer Science
+- **Minor:** Social Justice
+- **Expected Graduation:** May 2027
 
 ---
 
-### 🛠️ Technical Skills & Core Competencies
-* 💻 **Languages & Frameworks:** Java, SQL, Python, Web Programming (HTML/CSS), Database Security.
-* 🔐 **Security Tools & Engineering:** Splunk (log analysis & security monitoring), Nmap network scanning, Kali Linux.
-* ⚙️ **Infrastructure & Methodology:** Cloud security concepts (AWS), Git/GitHub version control, Chrome DevTools.
-* 📊 **Analytical Domains:** Security analysis, data analytics, and framework mapping (NIST CSF, NIST RMF, ISO/IEC 27001).
+## 🚀 About Me
+
+- 🔐 **Career Focus:** Governance, Risk, and Compliance (GRC)
+- 🧪 **Hands-on Experience:** Web application security assessment and full-stack software development
+- 🌱 **Currently Developing:** Knowledge of security frameworks, risk management, database security, and network security controls
+- 🎯 **Career Goal:** Pursuing cybersecurity internships and entry-level opportunities, especially in GRC, security analysis, and risk management
 
 ---
 
-### 📚 Relevant Coursework
-My coursework at Radford University combines cybersecurity principles, computer systems, software development, networking, databases, and cloud computing.
+## 🛠️ Technical Skills
 
-#### 🔐 Cybersecurity Courses
-* Computer System & Database Security
-* Introduction to Information Security
-* Information Assurance Management
-* Security of Cyber-Physical Systems
-* Societal Security in Computing
-* Introduction to Computer Networking
-
-#### 💻 Computer Science & Technology Courses
-* Foundations of Computer Science I & II
-* Foundations of Computer Systems
-* Computer Organization
-* Operating Systems
-* Software Engineering I
-* Database I
-* Web Programming I
-* Foundations of Cloud Computing
+- **Programming & Web Development:** Java, SQL, Python, HTML, CSS, JavaScript
+- **Security Tools:** Splunk, Nmap, Kali Linux, Chrome DevTools
+- **Security Concepts:** HTTP analysis, authentication, access controls, vulnerability analysis, security monitoring
+- **Development Tools:** Git, GitHub, GitLab
+- **Frameworks & Standards:** Developing familiarity with NIST Cybersecurity Framework (CSF), NIST Risk Management Framework (RMF), and ISO/IEC 27001
 
 ---
 
-### 🧪 Hands-on Practices & Domains
-* 🔒 **Security Practices:** OWASP Juice Shop assessment, HTTP request and response analysis, authentication and access-control testing, security response header review, and evidence-based reporting.
-* 📋 **Areas of Interest:** GRC, cybersecurity risk management, security controls, and network security.
+## 📂 Featured Projects
+
+### 🔎 Web Application Security Assessment
+
+Performed a security assessment of OWASP Juice Shop in a local testing environment, focusing on web application security and identifying potential weaknesses.
+
+**Focus Areas:**
+- HTTP request and response analysis
+- Security response headers
+- Authentication and access-control testing
+- Vulnerability documentation and evidence-based reporting
+
+🔗 [View Project on GitHub](https://github.com/quansahbrittany/web-application-security-assessment)
+
+### 🥫 Smart Pantry — Full-Stack Team Project
+
+Collaborated on a pantry management application designed to help users manage inventory, monitor expiration dates and low-stock items, and organize shopping lists.
+
+**Technologies:** JavaScript, Node.js, Express, MySQL, HTML, CSS
+
+**Project Highlights:**
+- Pantry inventory management
+- Expiration-date and low-stock notifications
+- Shopping-list functionality
+- Full-stack development and team collaboration
+
+🔗 [View on GitHub](https://github.com/quansahbrittany/smart-pantry) | [View on GitLab](https://gitlab.com/quansahbrittany/smart-pantry)
+
+### 🌎 Live Earthquake Data Reporting System
+
+Developed a Java application that retrieves earthquake information through the USGS REST API and presents data in a graphical user interface.
+
+**Technologies:** Java, Java Swing, REST APIs, JSON
+
+**Project Highlights:**
+- Retrieved and processed earthquake data
+- Parsed JSON responses
+- Displayed information through a graphical interface
+- Implemented sorting and filtering functionality
 
 ---
 
-### 📬 Let's Connect!
-* 💼 **LinkedIn:** [Brittany Quansah](https://linkedin.com)
-* 🐙 **GitHub Username:** [@quansahbrittany](https://github.com)
+## 📚 Relevant Coursework
+
+### 🔐 Cybersecurity
+- Introduction to Information Security
+- Information Assurance Management
+- Computer System and Database Security
+- Security of Cyber-Physical Systems
+- Societal Security in Computing
+- Introduction to Computer Networking
+
+### 💻 Computer Science
+- Foundations of Computer Science I & II
+- Foundations of Computer Systems
+- Computer Organization
+- Operating Systems
+- Software Engineering
+- Database Systems
+- Web Programming
+- Foundations of Cloud Computing
+
+---
+
+## 🎯 Areas of Interest
+
+- Governance, Risk, and Compliance (GRC)
+- Cybersecurity risk assessments
+- Security controls and compliance documentation
+- Vulnerability assessment and remediation
+- Network security and security monitoring
+- Access control and identity management
+- Security policies and risk mitigation
+
+---
+
+## 📬 Let's Connect!
+
+I'm always interested in connecting with cybersecurity professionals, collaborating on technical projects, and learning about opportunities to grow in the cybersecurity field.
+
+- 💼 **LinkedIn:** [Brittany Quansah](https://www.linkedin.com/in/brittany-quansah-8603832bb)
+- 🐙 **GitHub:** [@quansahbrittany](https://github.com/quansahbrittany)
+- 🦊 **GitLab:** [@quansahbrittany](https://gitlab.com/quansahbrittany)
+
+---
 
 *Learning continuously. Building responsibly. Managing risk. Securing what matters.* 🔐
