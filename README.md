@@ -30,12 +30,12 @@ I'm a student at Radford University building a foundation in cybersecurity, soft
 
 ## 🛠️ Technical Skills
 
-•	Frameworks & Standards: NIST CSF 2.0, NIST RMF (SP 800-37), NIST SP 800-53, NIST SP 800-30
-•	Security Tools & Platforms: Splunk (SIEM), EDR, IDS, Kali Linux, Linux Environments
-•	Languages: Python, Java, JavaScript
-•	Databases & Querying: SQL, MySQL, Database Design
-•	Web & Software Technologies: HTML, CSS, Node.js, Express.js, REST APIs, JSON
-•	Tools & Version Control: Git, GitHub, Visual Studio Code
+- **Frameworks & Standards: NIST CSF 2.0, NIST RMF (SP 800-37), NIST SP 800-53, NIST SP 800-30
+- **Security Tools & Platforms: Splunk (SIEM), EDR, IDS, Kali Linux, Linux Environments
+- **Languages: Python, Java, JavaScript
+- **Databases & Querying: SQL, MySQL, Database Design
+- **Web & Software Technologies: HTML, CSS, Node.js, Express.js, REST APIs, JSON
+- **Tools & Version Control: Git, GitHub, Visual Studio Code
 
 ---
 
